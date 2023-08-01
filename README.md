@@ -71,7 +71,7 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * Nerf in the wild: Neural radiance fields for unconstrained photo collections, CVPR 2021
 
 ## Diffusion based methods
-### basic
+### Basic theory
 * Denoising Diffusion Probabilistic Models, NIPS 2020
 * Denoising Diffusion Implicit Models, 2021
 * Classifier-Free Diffusion Guidance, 2022
@@ -81,7 +81,7 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022
 * Scalable Diffusion Models with Transformers, 2022
 		
-### conditional image generation
+### Conditional image generation
 * Palette: Image-to-Image Diffusion Models, 2021
 * Prompt-to-Prompt Image Editing with Cross Attention Control, 2022
 * Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation, CVPR 2023
@@ -93,7 +93,7 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * DreamFusion: Text-to-3D using 2D Diffusion, 2022
 * ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation, 2023
 
-### video generation
+### Video generation
 * Video Diffusion Models, 2022
 
 ## Multi-mode methods
