@@ -86,7 +86,6 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * Prompt-to-Prompt Image Editing with Cross Attention Control, 2022
 * Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation, CVPR 2023
 * An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion, 2022
-* InstructPix2Pix: Learning to Follow Image Editing Instructions, CVPR 2023
 * Lora: Low-rank adaptation of large language models, ICLR 2022
 * Adding Conditional Control to Text-to-Image Diffusion Models, 2023
 		
