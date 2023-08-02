@@ -1,12 +1,16 @@
+# Awesome AIGC paper list for a Computer Vision Engineer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 # AIGC paper list for a Computer Vision Engineer
 A list of papers on AIGC in recent 3 years, must be read by a __Computer Vision Engineer__.
 
 ## Disclaimer
-This list does not aim to be exhaustive. There are two aims of this repository: 
+As a computer vision engineer, my responsibility includes (especially in a startup): keep pace with the academic community and try to apply the newest technology in the products, manage the GPU clusters, manage and collect data from business unit, help to deploy the models, discuss with PMs about product design...
 
-1.For an experienced Computer Vision Engineer, this rep records usefull papers should be read carefully and understood well;
+On the other hand, Computer Vision progresses very rapidly and thousands of paper are published every year. Screening works that are useful in engineering is often time consuming, as every paper claims that it gets SOTA and has great innovation.
 
-2.For a beginner Engineer, these papers may give you an overview of AIGC in CV in rencent 3 years.
+So I create this list and I select works that are applicable in my experience, or milestones with a series of works followed by.
+
+This list does not aim to be exhaustive and categories are based on my experience. __PR are welcomed__.
+
 
 ## Table of contents
 - [VQ-VAE](#VQ-VAE) 
