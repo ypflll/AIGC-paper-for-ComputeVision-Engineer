@@ -1,12 +1,12 @@
 # AIGC paper list for a Computer Vision Engineer
-A list of papers on AIGC in recent 3 years, must be read by Computer Vision Engineer.
+A list of papers on AIGC in recent 3 years, must be read by a __Computer Vision Engineer__.
 
 ## Disclaimer
-This list does __not aim to be exhaustive__. There are two aims of this repository: 
+This list does not aim to be exhaustive. There are two aims of this repository: 
 
 1.For an experienced Computer Vision Engineer, this rep records usefull papers should be read carefully and understood well;
 
-2.For a beginner Engineer, these papers may give you a panorama of AIGC in CV in rencent 3 years.
+2.For a beginner Engineer, these papers may give you an overview of AIGC in CV in rencent 3 years.
 
 ## Table of contents
 - [VQ-VAE](#VQ-VAE) 
@@ -19,17 +19,17 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 
 # Papers
 ## VQ-VAE
-* Neural Discrete Representation Learning, NIPS 2017
+* Neural Discrete Representation Learning (VQ-VAE), NIPS 2017
 * Generating Diverse High-Fidelity Images with VQ-VAE-2, NIPS 2019
-* VQ-GAN, Taming Transformers for High-Resolution Image Synthesis, CVPR 2021
+* Taming Transformers for High-Resolution Image Synthesis (VQ-GAN), CVPR 2021
 
 ## GAN based methods
 ### General imgae genneration/edit
 * Semantic Image Synthesis with SPADE, CVPR 2019
-* A Style-Based Generator Architecture for Generative Adversarial Networks, 2018
-* Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020
-* Alias-Free Generative Adversarial Networks, NeurIPS 2021
-* Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold, SIGGRAPH 2023		
+* A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN), 2018
+* Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2), CVPR 2020
+* Alias-Free Generative Adversarial Networks (StyleGAN3), NeurIPS 2021
+* Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN), SIGGRAPH 2023
 
 ### Face swap
 * SimSwap: An Efficient Framework For High Fidelity Face Swapping
@@ -54,9 +54,8 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * InsetGAN for Full-Body Image Generation, CVPR 2022
 * StyleGAN-Human: A Data-Centric Odyssey of Human Generation, ECCV 2022
 
-
 ## 3D aware GAN
-* Efficient Geometry-aware 3D Generative Adversarial Networks, CVPR 2022
+* Efficient Geometry-aware 3D Generative Adversarial Networks (EG3D), CVPR 2022
 * StyleSDF: High-resolution 3d-consistent image and geometry generation, CVPR 2022
 * GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation, CVPR 2022
 
@@ -72,15 +71,15 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 
 ## Diffusion based methods
 ### Basic theory
-* Denoising Diffusion Probabilistic Models, NIPS 2020
-* Denoising Diffusion Implicit Models, 2021
+* Denoising Diffusion Probabilistic Models (DDPM), NIPS 2020
+* Denoising Diffusion Implicit Models (DDIM), 2021
 * Classifier-Free Diffusion Guidance, 2022
 
 ### 2D image
 * Diffusion Models Beat GANs on Image Synthesis, 2021
 * High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022
 * Scalable Diffusion Models with Transformers, 2022
-		
+
 ### Conditional image generation
 * Palette: Image-to-Image Diffusion Models, 2021
 * Prompt-to-Prompt Image Editing with Cross Attention Control, 2022
@@ -88,7 +87,7 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion, 2022
 * Lora: Low-rank adaptation of large language models, ICLR 2022
 * Adding Conditional Control to Text-to-Image Diffusion Models, 2023
-		
+
 ### 3D content genneration
 * DreamFusion: Text-to-3D using 2D Diffusion, 2022
 * ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation, 2023
@@ -97,10 +96,10 @@ This list does __not aim to be exhaustive__. There are two aims of this reposito
 * Video Diffusion Models, 2022
 
 ## Multi-mode methods
-* Learning Transferable Visual Models From Natural Language Supervision, 2021
+* Learning Transferable Visual Models From Natural Language Supervision (CLIP), 2021
 * GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, 2021
-* Hierarchical Text-Conditional Image Generation with CLIP Latents, 2022
-* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, 2022
+* Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2), 2022
+* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Imagen), 2022
 * InstructPix2Pix: Learning to Follow Image Editing Instructions, CVPR 2023
 
 
